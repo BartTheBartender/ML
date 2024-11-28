@@ -1,3 +1,9 @@
+# Tutaj moje prywatne gitignore
+lab/mnist/
+lab/cifar-10-batches-py/
+lab/cifar-10-python.tar.gz
+
+################################################
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
